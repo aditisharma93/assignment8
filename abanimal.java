@@ -27,7 +27,7 @@ public void eat(){
 System.out.println(name+" eats");
   }
 }
-public class abs{
+public class abanimal{
 	public static void main(String args[]){
 Dog d = new Dog("Wolfy","white","Husky");
 Cat c = new Cat("Meredith","Grey","Scottish Fold");
