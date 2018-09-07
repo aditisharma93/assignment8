@@ -19,7 +19,7 @@ public void eat(){
 System.out.println("Dog eats chicken.");
  }
 }
-public class animals{
+public class inanimals{
 public static void main(String args[]){
 Dogs o1 = new Dogs();
 Cats o2 = new Cats();
